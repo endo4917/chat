@@ -10,3 +10,7 @@
 #input {
   width: 600px;
 }
+p {
+  margin: 0;
+  padding: 0;
+}
